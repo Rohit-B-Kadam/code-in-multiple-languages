@@ -14,7 +14,7 @@
     $ sudo apt install g++
     ```
 
-1. Create .cpp extension file and write cpp program. Refer code- [simpleProgram](./simpleProgram.cpp)
+1. Create .cpp extension file and write cpp program. Refer code- [simpleProgram.cpp](./simpleProgram.cpp)
 
 1. Now we will compile cpp program to machine code(out.exe)
     ```bash
