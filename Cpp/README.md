@@ -1,8 +1,8 @@
 # C++ Programming Language
 
-- Cpp is a general-purpose, procedural and object oriented programming language. 
-- C was originally developed at Bell Labs by Dennis Ritchie between 1972 and 1973 to construct utilities running on Unix.
-- Cpp is similar to C language with classes.
+- C++ is a general-purpose, procedural and object oriented programming language. 
+- C++ was created by Bjarne Stroustrup at 1985.
+- C++ is similar to C language with classes.
 - Modern C++ now has object-oriented, generic, and functional features in addition to facilities for low-level memory manipulation
 
 ---
