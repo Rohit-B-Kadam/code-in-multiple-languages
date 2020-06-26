@@ -7,16 +7,16 @@
 
 ---
 
-## Runing simpleProgram.c file
+## Run a simple C++ program
 
-1. First we must have g++ compiler to compile c program into machine code
+1. First we will install g++ compiler to compile cpp program into machine code
     ```bash 
     $ sudo apt install g++
     ```
 
 1. Create .cpp extension file and write cpp program. Refer code- [simpleProgram](./simpleProgram.cpp)
 
-1. Now we will compile c program to machine code(out.exe)
+1. Now we will compile cpp program to machine code(out.exe)
     ```bash
     $ g++ simpleProgram.cpp -o out.exe
     ```
