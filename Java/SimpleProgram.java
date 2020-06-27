@@ -25,6 +25,6 @@ class SimpleProgram
         Scanner sc = new Scanner(System.in);                // creating object of scanner class to accept user input from console
         name = sc.next();                                   // accepting string value from user inputs
         
-        greeting("Rohit");                                  // Calling user defined function
+        greeting(name);                                  // Calling user defined function
     }
 }
