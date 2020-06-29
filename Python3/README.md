@@ -31,9 +31,10 @@
 
 
 ## Application and Real-World Example
-- Machine Learning -> best ML library (sklearn, numpy, TensorFlow)
-- Server-side Programming -> (Frame-work: django, Flask)
-- Graphic User Interface(GUI) Application -> (PyQt5 is the most popular )
+- __Machine Learning__ -> best ML library (sklearn, numpy, TensorFlow)
+- __Server-side Programming__ -> (Frame-work: django, Flask)
+- __Automation__
+- __Graphic User Interface(GUI) Application__ -> (PyQt5 is the most popular )
 
 ## Advantage
 - Great open source library.
