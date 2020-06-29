@@ -28,10 +28,6 @@
     ```
 
 ## Application and Real-World Example
-- Operating System (Kernal, Device Driver) -> MacOS, Windows and Linux.
-- Graphics (OpenGL) -> Games, Editing s/w
-- Embedding Syste -> IOT devices
-- Build Framework -> nodejs, tensorflow
-- Database -> mysql is wriiten in cpp
-- Browsers -> Chorme, Firefox ..etc
-- Compilers of various high level languages
+- __Operating System (Kernal, Device Driver)__ -> MacOS, Windows and Linux.
+- __Graphics (OpenGL)__ -> Games, Editing s/w
+- __Embedding System__ -> IOT devices
