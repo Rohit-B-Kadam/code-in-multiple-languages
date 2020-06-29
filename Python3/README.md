@@ -1,52 +1,43 @@
 # Python Programming Language
 
-- Python is a general-purpose programming language. 
-- 
-- Java applications are typically compiled to bytecode that can run on any Java virtual machine (JVM) regardless of the underlying computer architecture
+- Python is an interpreted, high-level, general-purpose programming language 
+- Created by Guido van Rossum and first released in 1991
+- Python is dynamically typed and garbage-collected. It supports multiple programming paradigms, including structured (particularly, procedural), object-oriented, and functional programming.
+- python2 is deprecated. we will use python3
 
 ---
 
-## Run a simple Java Program
+## Run a simple Python Program
 
-1. First we must have java-sdk to build and run java program. Below I have install openjdk-java14
+1. First ww will install python3.
     ```bash 
-    $ sudo apt install openjdk-14-jdk
+    $ sudo apt install python3
     ```
 
-1. Create .java extension file and write java program. Refer code- [SimpleProgram.java](./SimpleProgram.java)
+1. Create .py extension file and write python program. Refer code- [simple_program.py](./simple_program.py)
 
-1. Now we will compile java program to bytecode(SimpleProgram.class)
+1. As python is interpreted language, we can direct run the program without compiling it first.
     ```bash
-    $ javac SimpleProgram.java 
+    $ python3 simple_program.py
     ```
 
-1. Now, We run bytecode on JVM
+## Python Language Features
 
-    ```bash
-    $ java SimpleProgram
-    ```
-
-## Java Language Features
-
+1. __Easy To Code and Code Readability__
 1. __Object Oriented__
+1. __Dynamic-Typed language__
 1. __Platform Independent__
-1. __Secure__
-1. __Multithreaded__ 
-1. __Auto Garbage Collector__
+1. __Large Standard Library__
 
 
 ## Application and Real-World Example
-- Graphic User Interface(GUI) Application -> (JAVAX)
-- Server-side Programming -> (Frame-work: spring-boot)
-- Database framework -> Hibernate
-- Java Language is use in Andriod Development.
+- Machine Learning -> best ML library (sklearn, numpy, TensorFlow)
+- Server-side Programming -> (Frame-work: django, Flask)
+- Graphic User Interface(GUI) Application -> (PyQt5 is the most popular )
 
 ## Advantage
-
-- Portable (can run any platform and architecture)
-- No Memory leak problem.
+- Great open source library.
 
 ## Disadvantage
 
-- Performance slow than cpp because it run on JVM.
-- We have to write more boilplated code.
+- Performance slow than cpp.
