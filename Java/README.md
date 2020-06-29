@@ -36,10 +36,11 @@
 
 
 ## Application and Real-World Example
-- Graphic User Interface(GUI) Application -> (JAVAX)
-- Server-side Programming -> (Frame-work: spring-boot)
-- Database framework -> Hibernate
-- Java Language is use in Andriod Development.
+- __Graphic User Interface(GUI) Application__ -> (JAVAX)
+- __Server-side Programming__ -> (Frame-work: spring-boot)
+- __Database Framework__ -> Hibernate
+- __Android Development__
+- __Automation__
 
 ## Advantage
 
