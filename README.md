@@ -1,5 +1,6 @@
 # Code In Multiple Programming Languages
 
 1. [C](./C)
-2. [C++](./Cpp)
-3. [Java](./Java)
+1. [C++](./Cpp)
+1. [Java](./Java)
+1. [Python3](./Python)
