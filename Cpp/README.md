@@ -41,13 +41,12 @@
 
 
 ## Application and Real-World Example
-- Operating System (Kernal, Device Driver) -> MacOS, Windows and Linux.
-- Graphics (OpenGL) -> Games, Editing s/w
-- Embedding Syste -> IOT devices
-- Build Framework -> nodejs, tensorflow
-- Database -> mysql is wriiten in cpp
-- Browsers -> Chorme, Firefox ..etc
-- Compilers of various high level languages
+- __Graphics (OpenGL)__ -> Games, Editing s/w
+- __Embedding System__ -> IOT devices
+- __Build Framework__ -> nodejs, tensorflow
+- __Database__ -> mysql is wriiten in cpp
+- __Browsers__ -> Chorme, Firefox ..etc
+- __Compilers__ of various high level languages
 
 ## Advantage
 
