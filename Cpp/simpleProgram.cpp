@@ -8,13 +8,14 @@ void greeting( string name)
 {
     // display some greeting text which include user name
     cout << "Hi, " << name << endl;               
-    cout << "Welcome to World of Cpp" << endl;
+    cout << "Congrats you have successfully run the c++ program" << endl;
 }
 
 
 // Entry function of cpp
 int main()
 {
+    cout << "Welcome to the C++ World" << endl;
     string name;                    // declare a string variable to store a user name
     
     cout << "Enter your name: ";    // display a message(Enter your name) on console 
