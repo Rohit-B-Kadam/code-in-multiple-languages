@@ -12,8 +12,8 @@
 1. Required any browser.
 
 1. Create two file
-    - [index.html](./index.html) : HTML file
-    - [main.js](./main.js)  : JavaScript file
+    - [index.html](./run-on-browser/index.html) : HTML file
+    - [main.js](./run-on-browser/main.js)  : JavaScript file
 
 1.  In html file we have import our javascript file using `<script>` tag. 
 
