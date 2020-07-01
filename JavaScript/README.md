@@ -7,7 +7,7 @@
 
 ---
 
-## Run Javascript in Browser
+## I] Run Javascript on Browser
 
 1. Required any browser.
 
@@ -19,6 +19,24 @@
 
 1. Now we can simple open index.html on browser to run our javascript file.
 
+## II] Run Javascript on nodejs
+
+1. Install nodejs on system (you can install using below command on ubuntu or from [here](https://nodejs.org/en/download/) )
+    ```bash
+    $ sudo apt install nodejs
+    ```
+
+1. Install required packages
+    ```bash
+    $ npm install prompt-sync
+    ```
+
+1. Write a simple JavaScript code [simple-program.js](./run-on-node/simple-program.js)
+
+1. Run simple-program.js on nodeJs
+    ```bash
+    $ node simple-program.js
+    ```
 ## JavaScript Language Features
 
 1. __Object Oriented__
