@@ -5,3 +5,4 @@
 1. [Java](./Java)
 1. [Python3](./Python3)
 1. [JavaScript](./JavaScript)
+1. [TypeScripy](./TypeScript)

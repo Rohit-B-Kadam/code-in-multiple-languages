@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>JavaScript</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <!-- <link rel='stylesheet' type='text/css' media='screen' href='main.css'> -->
+</head>
+<body>
+    <!-- Display welcome message -->
+    <h1 id="welcomeMessage"><!-- message will display --></h1>
+    <br>
+
+    <!-- Accept Input -->
+    <form onsubmit="event.preventDefault(); onSubmit()">
+        <label>Enter Your Name: </label>
+        <input type="text" id="name">
+        <button type="submit">OK</button>
+    </form>
+
+    <!-- Display Output -->
+    <h3 id="displayMessage"> <!-- message will display --> </h3>
+    
+    <!-- Import Our Javascript file -->
+    <script src='main.js'></script>
+</body>
+</html>
