@@ -1,1 +1,2 @@
+# ignoring node_module directory which is created while installing node package
 **/node_modules
